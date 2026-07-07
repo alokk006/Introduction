@@ -1,2 +1,2 @@
 # Introduction
-watashi wa alok desu.
+Watashi wa Aroku desu.
